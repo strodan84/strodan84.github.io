@@ -24,22 +24,22 @@ format:
 
 ::: {.columns .v-center}
 ::: {.column width="35%"}
-![](images/halfmetal.png)
+![](/images/halfmetal.png)
 :::
 
 ::: {.column width="35%"}
-![](images/heusler_disorder.jpg)
+![](/images/heusler_disorder.jpg)
 :::
 :::
 
 
 ::: {.columns .v-center}
 ::: {.column width="45%"}
-![](images/nmr_work2.png)
+![](/images/nmr_work2.png)
 :::
 
 ::: {.column width="45%"}
-![](images/nmr_work1.png)
+![](/images/nmr_work1.png)
 :::
 :::
 
@@ -49,11 +49,11 @@ format:
 
 ::: {.columns .v-center}
 ::: {.column width="50%"}
-![](images/iridate1.png)
+![](/images/iridate1.png)
 :::
 
 ::: {.column width="50%"}
-![](images/iridate2.png)
+![](/images/iridate2.png)
 :::
 :::
 
@@ -62,7 +62,7 @@ format:
 ## Postdoc #2: Ferromagnetism in Doped van der Waals Systems
 
 ::: {style="float:center; margin-left:10px; width:900px;"}
-![](images/Co-SnS2.png)
+![](/images/Co-SnS2.png)
 :::
 
 
@@ -81,15 +81,15 @@ After feeling I was unvoluntarily being funneled into too much applied work (due
 
 ::: {.columns .v-center}
 ::: {.column width="33%"}
-![](images/profile4.jpg)
+![](/images/profile4.jpg)
 :::
 
 ::: {.column width="33%"}
-![](images/mdom.png)
+![](/images/mdom.png)
 :::
 
 ::: {.column width="33%"}
-![](images/camerawork.jpg)
+![](/images/camerawork.jpg)
 :::
 :::
 
