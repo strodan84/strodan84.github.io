@@ -1,1 +1,0 @@
-Sitemap: https://stevenrodan.github.io/mysite/sitemap.xml
