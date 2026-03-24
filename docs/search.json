@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "techniques.html",
+    "href": "techniques.html",
+    "title": "Techniques - Theoretical & Experimental",
+    "section": "",
+    "text": "Optical calibration systems\nFirmware, Raspberry Pi, microcontroller\nIceCube DAQ systems\nSignal reconstruction & noise modeling\n\n\n\n\n\nPython, C++\nstatistical analytical methods\nMachine Learning with Scikit-learn and TensorFlow\nConvolutional Neural Networks (CNNs, ~image recognition)"
+  },
+  {
+    "objectID": "techniques.html#astroparticle-physics-relevant",
+    "href": "techniques.html#astroparticle-physics-relevant",
+    "title": "Techniques - Theoretical & Experimental",
+    "section": "",
+    "text": "Optical calibration systems\nFirmware, Raspberry Pi, microcontroller\nIceCube DAQ systems\nSignal reconstruction & noise modeling\n\n\n\n\n\nPython, C++\nstatistical analytical methods\nMachine Learning with Scikit-learn and TensorFlow\nConvolutional Neural Networks (CNNs, ~image recognition)"
+  },
+  {
+    "objectID": "techniques.html#condensed-matter-relevant",
+    "href": "techniques.html#condensed-matter-relevant",
+    "title": "Techniques - Theoretical & Experimental",
+    "section": "Condensed-Matter Relevant",
+    "text": "Condensed-Matter Relevant\n\n\nMaterials Synthesis\n\nSolid-state reaction (polycrystalline pellets)\nFlux growth of Single Crystals\nCrystal polishing and surface preparation\nArc-melter (polyxtal intermetallics)\nChemical vapor transport (CVT)\n\n\n\n\nInside crystal growth lab at Chung-Ang University — 2017\n\n\n\n\nStructural & Chemical Characterization\n\nPowder X-ray diffraction (XRD)\nSEM / EDX\nAtomic Force Microscope (AFM)\n\n\n\nElectronic & Magnetic Measurements\n\nSQUID magnetometry (dc and ac)\nHall effect measurements\nFour-point probe transport\n\n\n\nSpecial Characterization\n\nSpecific Heat Capacity (PPMS 2-tau relaxation)\nNuclear Magnetic Resonance (NMR)\nMuon Spin Rotation (\\(\\mu\\)SR)\n\n\n\nLow-Temperature & Cryogenics\n\nQuantum Design cryostats\nLiquid helium systems (with Liq-N jackets)\nMeasurements on crystalline samples down to 1.8 K"
+  },
+  {
+    "objectID": "specheat.html",
+    "href": "specheat.html",
+    "title": "Specific Heat Capacity (PPMS 2-tau relaxation)",
+    "section": "",
+    "text": "Diagram of the parts of a specific heat capacity measurement with a Quantum Design PPMS"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Topics - Past & Present",
+    "section": "",
+    "text": "hexagonal RMnO\\(_3\\) (R = Y, Er, Ho) perovskites (single crystal flux growth)\npolycrystal growth of Ruddlesden-Popper phases, such as double perovskites A\\(_2\\)BB’O\\(_6\\)\nStructural chartacterization through powder XRD\n\n\n\n\n\ncharacterizing new ternary (or quartenary) metallic alloys predicted to be half-metals (the Fermi level passes through a gap for electrons of only one spin polarization, as shown in the left diagram below) thus all conducting electrons theoretically would be 100% spin-polarized.\nEarly in my second year I switched focus from crystal growth to setting up and testing a new zero-field NMR (nuclear magnetic resonance) electronics for spin-echo spectra analysis of magnetic materials, and in particular I measured and analyzed broad spectra for several Heusler compounds (both bulk and thin films) using models of various types of antisite disorder (illustrated in the right image below).\nThe focus of my doctoral thesis was understanding the structure to properties Performed measurements using XRD, magnetization, and specific heat in addition to NMR"
+  },
+  {
+    "objectID": "research.html#undergrad-masters-magnetoelectric-multiferroics-and-topologically-protected-vortices",
+    "href": "research.html#undergrad-masters-magnetoelectric-multiferroics-and-topologically-protected-vortices",
+    "title": "Research Topics - Past & Present",
+    "section": "",
+    "text": "hexagonal RMnO\\(_3\\) (R = Y, Er, Ho) perovskites (single crystal flux growth)\npolycrystal growth of Ruddlesden-Popper phases, such as double perovskites A\\(_2\\)BB’O\\(_6\\)\nStructural chartacterization through powder XRD"
+  },
+  {
+    "objectID": "research.html#phd-half-metallic-heusler-compounds-x_2yz",
+    "href": "research.html#phd-half-metallic-heusler-compounds-x_2yz",
+    "title": "Research Topics - Past & Present",
+    "section": "",
+    "text": "characterizing new ternary (or quartenary) metallic alloys predicted to be half-metals (the Fermi level passes through a gap for electrons of only one spin polarization, as shown in the left diagram below) thus all conducting electrons theoretically would be 100% spin-polarized.\nEarly in my second year I switched focus from crystal growth to setting up and testing a new zero-field NMR (nuclear magnetic resonance) electronics for spin-echo spectra analysis of magnetic materials, and in particular I measured and analyzed broad spectra for several Heusler compounds (both bulk and thin films) using models of various types of antisite disorder (illustrated in the right image below).\nThe focus of my doctoral thesis was understanding the structure to properties Performed measurements using XRD, magnetization, and specific heat in addition to NMR"
+  },
+  {
+    "objectID": "research.html#icecube-neutrino-observatory-upgrade-camera-system-jul-2021---dec-2024",
+    "href": "research.html#icecube-neutrino-observatory-upgrade-camera-system-jul-2021---dec-2024",
+    "title": "Research Topics - Past & Present",
+    "section": "IceCube Neutrino Observatory: Upgrade Camera System (Jul 2021 - Dec 2024)",
+    "text": "IceCube Neutrino Observatory: Upgrade Camera System (Jul 2021 - Dec 2024)\n\nI headed testing and production of over 2,000 fixed-focus camera-illumination board calibration systems for the IceCube Upgrade at the South Pole, managing camera issues during integration.\nI developed the initial deployment and measurement plans for the ’‘’Upgrade Camera System’’’.\nI advised students (both undergrads and graduate) on their thesis research and undergraduate projects, scheduled and maintained one-on-one weekly meetings. I supported the PI who aside from two visits a year, communicated with students only remotely, and was given a large responsibility to maintain the labs in South Korea."
+  },
+  {
+    "objectID": "research.html#cross-detector-cosmic-ray-low-energy-scalar-rate-modulation-during-solar-transient-events-sep-2025---jul-2026",
+    "href": "research.html#cross-detector-cosmic-ray-low-energy-scalar-rate-modulation-during-solar-transient-events-sep-2025---jul-2026",
+    "title": "Research Topics - Past & Present",
+    "section": "Cross-Detector Cosmic Ray Low-Energy Scalar Rate Modulation during Solar Transient Events (Sep 2025 - Jul 2026)",
+    "text": "Cross-Detector Cosmic Ray Low-Energy Scalar Rate Modulation during Solar Transient Events (Sep 2025 - Jul 2026)\n\nForbush decreases are transient events connected with solar flares/ICMEs, where the flux of lower energy (rigidity) particles is reduced by the shock/sheath and magnetic cloud associated with the flare.\ndeveloped phenomenological two-component attenuation model\nusing toy model, and CORSIKA simulations\ndrafting paper and wrapping things up on this project (in Jan 2026)"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "(The following numbers were last updated on March 23, 2026)\n\nWorld: 1317\nAsia: 565\nUnited States: 399\nNew Jersey (home state): 345\nCape May County (hometown): 331\nEcuador: 300\nSouth Korea: 259\nPhotographed Species: 207"
+  },
+  {
+    "objectID": "hobbies.html#birding",
+    "href": "hobbies.html#birding",
+    "title": "Hobbies",
+    "section": "",
+    "text": "(The following numbers were last updated on March 23, 2026)\n\nWorld: 1317\nAsia: 565\nUnited States: 399\nNew Jersey (home state): 345\nCape May County (hometown): 331\nEcuador: 300\nSouth Korea: 259\nPhotographed Species: 207"
+  },
+  {
+    "objectID": "hobbies.html#language-learning",
+    "href": "hobbies.html#language-learning",
+    "title": "Hobbies",
+    "section": "#2 Language Learning",
+    "text": "#2 Language Learning\nIn my freetime, if I am not outdoors looking for birds, I might be taking a 30-minute break to study any of 30+ languages I’ve dabbled in since I fell in love with foreign cultures around the age of 11 or 12 (rather than any initial interest in the subject of linguistics). I think the catalyst that sent me on the course to become a polyglot, was my first visit to the World Showcase at EPCOT park in Walt Disney World, as two of the earliest languages I became obsessed with were German and Norwegian. So you could say, when I landed in Dresden for my doctoral work, a 14-year-old dream had come true!\nTo see which languages I can speak to some level of fluency or at a minimum hold basic conversation in, check out my short CV here.\n\n\n\n\n\nA selection of my avian-themed library.\n\n\n\n\n\n\nAs a relatively accurate depiction of my language interest here is a screenshot of my top courses on Duolingo pointwise, on March 23, 2026."
+  },
+  {
+    "objectID": "dft.html",
+    "href": "dft.html",
+    "title": "Density Functional Theory (DFT)",
+    "section": "",
+    "text": "open-source package for research in electronic structure, simulation and optimization\n\n\n\nSelf-taught mostly, from online Quantum-ESPRESSO tutorials with hands-on DFT practice, and reading and working through Prof. Vanderbilt’s excellent book Berry Phases in Electronic Structure Calculations\nI am now proficient in:\n\nrunning SOC + magnetic DFT\nconstructing Wannier models\ncomputing Berry curvature and θ\nand proposing materials with measurable axionic response."
+  },
+  {
+    "objectID": "afm.html",
+    "href": "afm.html",
+    "title": "Atomic Force Microscopy (AFM)",
+    "section": "",
+    "text": "AFM"
+  },
+  {
+    "objectID": "arcmelter.html",
+    "href": "arcmelter.html",
+    "title": "Arc-Melter",
+    "section": "",
+    "text": "Especially at the start of my doctoral studies at the IFW in Dresden, I began my studies of Heusler compounds (X\\(_2\\)YZ) by growing samples using the lab’s arc-melter. Advantages of this sythesis method, over single crystal growth using a mirror floating zone furnace, include fast growth and quenching can result in chemical phases not thermodynamic equilibrium.\nOne must first measure the ingredients - rather a bit tougher with pure metals than oxide powders - and place in a depression in a copper “hearth”. Place a titanium getter in another depression, away from the ingredients (lest Ti contamination is desired). The chamber is sealed and vacuum is created with a pump, and the atmosphere is flushed with Ar a few times. A plasma “arc” is created by a tungsten (W) tip making contact with a part of the copper hearth (controlled with the black rubber “video game toggle” seen above the chamber in figure below) when a voltage differential is applied. Then the Ti getter is first melted in order for any residual oxygen in the chamber to be absorbed (creating partial TiO2) thus removing from chamber atmosphere. This is done by controlling the upper W-tip and slowly (but continuously) swirling it around the outside of the Ti getter, bringing the arc slowly closer until the ingot is fully melted for a few seconds, during which time any oxygen would readily absorb onto the Ti. After this is done, the tip - careful to never let the tip actually touch the materials - is brought in the same manner around the intermetallic alloy/compound crystal ingredients…\nThe reason the resultant ingot is a polycrystal is due to the fast cooling, inevitable when the arc is turned off. For safely preventing overheating there is a water cooling line running through the Cu hearth (don’t forget to turn on before synthesis!) and this causes the fast cooling which causes the molten ingot to quench or cool rapidly upon removing the plasma arc."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Thoughts, research notes, and informal sketches related to physics, materials science, and experiments.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download full CV (PDF):\nSteven_Rodan_CV_20260122"
+  },
+  {
+    "objectID": "cv.html#short-cv",
+    "href": "cv.html#short-cv",
+    "title": "Curriculum Vitae",
+    "section": "Short CV",
+    "text": "Short CV\n\nEducation\nPhD – TU Dresden (2010–2016)\nMasters - Rutgers University (2007–2010)\nBachelors - Rutgers University (2003–2007)\n\n\nSkills (Outside of Lab)\n\nProgramming Languages: Python, C/C++, root\nPlatforms: UNIX, Linux, Microsoft Windows\nLanguages:\n\n🇺🇸 English (native)\n🇰🇷 Korean (conversationally fluent)\n🇯🇵 Japanese (intermediate)\n🇩🇪 German (intermediate)\n🇪🇨 Spanish, Latin-American (basic conversation)\n🇹🇷 Turkish (basic conversation)\n🇷🇺 Russian (basic conversation)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Steven Rodan, PhD",
+    "section": "",
+    "text": "Inside one of my favorite Angkorian temples (Preah Khan), Siem Reap, Cambodia — Jan 2024\n\n\n\nWelcome to my personal homepage!\nI am an experimental physicist trained in two complimentary fields - particle astrophysics and quantum materials - and now building an independent research program at their intersection. The idea to create this page stemmed from the desire to explain the story of my non-traditional trajectory, blog about topics - hot and/or fascinating, maybe discussing or highlighting measurement techniques, or more theoretic (equation-heavy) posts with derivations and commentary on implications for experimentalists. The other main reason is to showcase - through images and descriptions - the breadth of my background in so many experimental techniques, which has allowed me to see interdisciplinary bridges someone trained in only one field might miss. Currently, I am part of the IceCube Neutrino Observatory collaboration and the Neutron Monitoring , exploring low-energy cosmic rays and novel materials for light dark matter detection.\n\nHere is my ResearchGate profile.\nHere is my updated (Jan 23, 2026) curriculum vitae\n\n\n\nQuickly Navigate This Site\n\n\n\nResearch\nExplore my projects in cosmic rays and quantum magnetic materials. Learn more →\n\n\n\nExperiments\nHere I review ALL synthesis and materials characterization techniques I’ve experience in. Learn more →\n\n\n\nPublications\nCurated publications and preprints in IceCube and light dark matter.\nSee publications →\n\n\n\nBlog\nResearch notes, sketches, and ideas in physics and materials science.\nRead blog →\n\n\n\nContact:\nEmail: steven.rodan84@gmail.com\nGitHub: strodan84\nORCID: 0000-0002-9886-4178"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Download my COMPLETE publications list here:\nSteven_Rodan_publications_20260311"
+  },
+  {
+    "objectID": "publications.html#selected-journal-publications",
+    "href": "publications.html#selected-journal-publications",
+    "title": "Publications",
+    "section": "Selected Journal Publications",
+    "text": "Selected Journal Publications\n\nSolar Flare Modulation of IceTop Count Rates During Forbush Events Observed by the South Pole Neutron Monitor\nSteven Rodan, [The IceCube Collaboration]\nDraft in preparation (anticipated 2026)\n\n\n\n\n\nBarometric pressure correction procedure explained in an early analysis slide.\n\n\n\n\n\nMaterial Design Towards a Thermodynamically Stable Co-Cr-Fe-Al Heusler-Type Phase\nA. Omar, F. Börrnert, M. Richter, J. Trinkauf, F. Heinsch, C.G.F. Blum, V. Romaka, Steven Rodan, et al.\nAPL Materials 13, 051118 (2025)\n\n\n\n\n\nMagnetization measurements I performed as part of my contribution to this article, in addition to specific heat measurements.\n\n\n\n\n\nOperations plans and sensitivities of the IceCube Upgrade Camera System\nSteven Rodan, Christoph Tönnis, Jiwoong Lee, Carsten Rott\nThe 38th International Cosmic Ray Conference (ICRC2023), PoS at arXiv:2308.07276\n\n\n\n\n\n\nSchematic of envisioned camera-LED image taking runs for the hole ice analysis, utilizing the cameras and LEDs on the mDOMs.\n\n\n\n\n\n\nSchematic of envisioned camera-LED image taking runs for the bulk ice analysis, using outwards-facing D-Egg cameras.\n\n\n\n\n\n\nEnhanced magnetic moment with cobalt dopant in SnS\\(_2\\) semiconductor\nH. Bouzid, Steven Rodan, K. Singh, Y. Jin, J. Jiang, D. Yoon, H.-Y. Song, Y.-H. Lee\nAPL Materials 9, 051106 (2021)\n\n\n\n\n\nMagnetization measurements I performed on cobalt-doped SnS2 van der Waals crystals, grown with CVT method.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nMy contribution: I had co-first-authored this paper with a then-graduate student on the characterization of a dopant-induced high Curie-temperature ferromagnetic state in non-magnetic SnS\\(_2\\) van der Waals semiconductor.\n\n\n\n\nQuantum critical nature of the short-range magnetic order in Sr\\(_{2 - x}\\)La\\(_x\\)IrO\\(_4\\)\nSteven Rodan, Sungwon Yoon, Suheon Lee, Gareoung Kim, J.-S. Rhyee, A. Koda, W.-T. Chen, Fangcheng Chou, K.-Y. Choi\nPhys. Rev. B 98, 214412 (2018)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nMy contribution: I synthesized the crystal samples, performed physical characterization measurements, and traveled to the JPARC facilities to perform muon spin rotation experiments to probe the magnetic dynamics in the quantum critical material.\n\n\n\nHalf-Metallic ferromagnetism with unexpected small spin splitting in the Heusler compound Co\\(_2\\)FeSi\nD. Bombor, C.G.F. Blum, O. Volkonskiy, Steven Rodan, S. Wurmehl, C. Hess, B. Büchner\nPhys. Rev. Lett. 110, 066601 (2013)\nNuclear magnetic resonance reveals structural evolution upon annealing in epitaxial Co\\(_2\\)MnSi Heusler films\nSteven Rodan, A. Alfonsov, M. Belesi, F. Ferraro, J.T. Kohlhepp, H.J.M. Swagten, B. Koopmans, Y. Sakuraba, S. Bosu, K. Takanashi, B. Büchner, S. Wurmehl\nAppl. Phys. Lett. 102, 242404 (2013)\n\n\n\n\n\n\n\nNote\n\n\n\nMy contribution: I performed the NMR measurements, using a setup that I helped commission, on both bulk crystals (grown by me) and thin films provided by collaborators."
+  },
+  {
+    "objectID": "solidstatereaction.html",
+    "href": "solidstatereaction.html",
+    "title": "Solid State Reaction",
+    "section": "",
+    "text": "This is step one in any course on inorganic crystal growth, and was my introduction as well. The idea is to weigh oxide powders to the correct ratio - based on molar masses, chemical composition and amount of sample you want to make in total (typically 2 grams for new samples) - and then mix them very thoroughly in a clean box (with ventilation inside) using an agate mortar and pestle.\n\n\n\n\n\nGrinding powders, attempting to break those bonds physically as much as possible before sintering!\n\n\n\n\n\n\nAfter grinding you often have a fine-grained powder like this.\n\n\n\n\nThen one pressures the powder into a pellet, carefully place in a ceramic crucible, and bake in a box or tube furnace at not-too-high temperature to calcinate the sample pellet.\n\n\n\n\n\nManual hydraulic press used to compactify powders into pellets for calcination/sintering.\n\n\n\n\n\n\nSintered pellet, just removed from ceramic crucible.\n\n\n\n\n\n\n\n\n“Bakery” at Rutgers University circa 2007, where I synthesized poly- and single-crystalline samples with solid state reaction and flux growth techniques, respectively.\n\n\n\nAfter cooling sample, removing from furnace, the pellet is re-ground and pelletized again for the first true sintering at higher temperature to promote rearranging molecules into many, randomly oriented molecules of the correct stoichiometry and thus, after several (typically 2-3) such sinterings - always with intermediate grinding - the final sample will be a polycrystal whose structure is typically first checked readily with powder X-ray diffraction (XRD)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Location: Rutgers University\nPeriod: 2007–2008\nElements of Physics (Fall 2007, Fall 2008)\n\nLed laboratory sections for an accelerated, one-semester physics course required for pharmacy students, covering mechanics, waves, and introductory quantum concepts.\n\nAnalytical Physics II Laboratory (Spring 2008, Spring 2009)\n\nInstructed laboratory sections for the second semester of a calculus-based physics sequence for engineering students, with emphasis on electromagnetism and introductory quantum mechanics.\n\nDelivered weekly instruction, graded assignments and lab reports, and provided individualized academic support during office hours.\nTeaching load: 9 hours/week; 3 lab sections per semester with 20–30 students per section.\n\n\n\n\n\nA cherished gift from one section of my first semester lab course, a fairly accurate semblance I must say."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-introductory-engineering-physics",
+    "href": "teaching.html#teaching-assistant-introductory-engineering-physics",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Location: Rutgers University\nPeriod: 2007–2008\nElements of Physics (Fall 2007, Fall 2008)\n\nLed laboratory sections for an accelerated, one-semester physics course required for pharmacy students, covering mechanics, waves, and introductory quantum concepts.\n\nAnalytical Physics II Laboratory (Spring 2008, Spring 2009)\n\nInstructed laboratory sections for the second semester of a calculus-based physics sequence for engineering students, with emphasis on electromagnetism and introductory quantum mechanics.\n\nDelivered weekly instruction, graded assignments and lab reports, and provided individualized academic support during office hours.\nTeaching load: 9 hours/week; 3 lab sections per semester with 20–30 students per section.\n\n\n\n\n\nA cherished gift from one section of my first semester lab course, a fairly accurate semblance I must say."
+  },
+  {
+    "objectID": "teaching.html#lecturer-study-group-instructor-particle-astroparticle-physics",
+    "href": "teaching.html#lecturer-study-group-instructor-particle-astroparticle-physics",
+    "title": "Teaching Experience",
+    "section": "Lecturer / Study Group Instructor: Particle & Astroparticle Physics",
+    "text": "Lecturer / Study Group Instructor: Particle & Astroparticle Physics\n\nLocation: Sungkyunkwan University (SKKU)\nPeriod: 2022–2024\nOrganized and led biweekly instructional study groups for graduate students and advanced undergraduates in astroparticle physics.\nTaught advanced topics including quantum field theory, neutrino physics, and dark matter phenomenology.\nMentored students through problem-solving sessions and guided discussions of current research literature.\nClass size: 8–10 students."
+  },
+  {
+    "objectID": "teaching.html#english-as-a-second-language-esl-teacher-curriculum-design-instruction",
+    "href": "teaching.html#english-as-a-second-language-esl-teacher-curriculum-design-instruction",
+    "title": "Teaching Experience",
+    "section": "English as a Second Language (ESL) Teacher: Curriculum Design & Instruction",
+    "text": "English as a Second Language (ESL) Teacher: Curriculum Design & Instruction\n\nLocation: EBY Talking Club, Uijeongbu, South Korea\nPeriod: 2016 (May - Dec)\nDesigned and implemented a year-long ESL curriculum for elementary and middle school students at a private language academy.\nEmphasized clear communication, student engagement, and differentiated instruction for learners with diverse language backgrounds.\nClass size: 15–20 students.\n\n\n\n\n\n\n\nNote\n\n\n\nReason for taking this position was the combination of strong personal desire to live in South Korea when there were no readily available postdocs I could apply for, and simultaneously needed an income; I figured I could find a research position from one of the universities “on the ground”, and I did within seven months!"
+  }
+]
