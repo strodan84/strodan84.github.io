@@ -1,0 +1,12 @@
+---
+title: Blog
+listing:
+  type: default
+  sort: "date desc"
+  max-items: 50
+  categories: true
+  page-size: 10
+---
+
+Thoughts, research notes, and informal sketches related to physics,
+materials science, and experiments.

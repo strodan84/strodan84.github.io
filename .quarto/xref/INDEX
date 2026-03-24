@@ -1,0 +1,77 @@
+{
+  "about.qmd": {
+    "about.html": "19d49e69"
+  },
+  "index.qmd": {
+    "index.html": "99161afd"
+  },
+  "publications.qmd": {
+    "publications.html": "1783ff4b"
+  },
+  "research.qmd": {
+    "research.html": "b5dffed4"
+  },
+  "teaching.qmd": {
+    "teaching.html": "f5ad4953"
+  },
+  "cv.qmd": {
+    "cv.html": "bfc0b09b"
+  },
+  "blog/2026-01-axions.qmd": {
+    "2026-01-axions.html": "9ab02fb2"
+  },
+  "blog/index.qmd": {
+    "index.html": "86216402"
+  },
+  "labskills.qmd": {
+    "labskills.html": "fc00c642"
+  },
+  "blog/2026-01-22-intro.qmd": {
+    "2026-01-22-intro.html": "c5b5a475"
+  },
+  "hobbies.qmd": {
+    "hobbies.html": "91edfd76"
+  },
+  "blog/multiferroics01.qmd": {
+    "multiferroics01.html": "3755a1e3"
+  },
+  "solidstatereaction.qmd": {
+    "solidstatereaction.html": "9659980b"
+  },
+  "dft.qmd": {
+    "dft.html": "23ceaee9"
+  },
+  "flux.qmd": {
+    "flux.html": "d053029a"
+  },
+  "arcmelter.qmd": {
+    "arcmelter.html": "f3e1b0d3"
+  },
+  "afm.qmd": {
+    "afm.html": "ddc8bd98"
+  },
+  "powderxrd.qmd": {
+    "powderxrd.html": "ef31cbeb"
+  },
+  "experiments/afm.qmd": {
+    "afm.html": "176c2362"
+  },
+  "experiments/arcmelter.qmd": {
+    "arcmelter.html": "b66fa72d"
+  },
+  "experiments/flux.qmd": {
+    "flux.html": "5f94ce91"
+  },
+  "experiments/powderxrd.qmd": {
+    "powderxrd.html": "aac97f3f"
+  },
+  "experiments/solidstatereaction.qmd": {
+    "solidstatereaction.html": "6ba26557"
+  },
+  "techniques.qmd": {
+    "techniques.html": "5bd132a5"
+  },
+  "specheat.qmd": {
+    "specheat.html": "b5a29d0c"
+  }
+}

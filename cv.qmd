@@ -1,0 +1,29 @@
+---
+title: Curriculum Vitae
+subtitle: "Steven Rodan"
+---
+
+
+**Download full CV (PDF):**  
+[Steven_Rodan_CV_20260122](CV_SRodan.pdf)
+
+---
+
+## Short CV
+
+### Education
+PhD – TU Dresden (2010--2016)  
+Masters - Rutgers University (2007--2010)  
+Bachelors - Rutgers University (2003--2007)  
+
+### Skills (Outside of Lab)
+- **Programming Languages**: Python, C/C++, root
+- **Platforms**: UNIX, Linux, Microsoft Windows
+- **Languages**: 
+    - 🇺🇸 English (native) 
+    - 🇰🇷 Korean (conversationally fluent)
+    - 🇯🇵 Japanese (intermediate)
+    - 🇩🇪 German (intermediate)
+    - 🇪🇨 Spanish, Latin-American (basic conversation)
+    - 🇹🇷 Turkish (basic conversation)
+    - 🇷🇺 Russian (basic conversation) 

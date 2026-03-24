@@ -1,0 +1,28 @@
+---
+title: "Axion-photon conversion in magnetic materials"
+date: 2026-01-22
+categories: [axions, dark-matter]
+number-sections: true
+draft: true
+---
+
+## Motivation
+
+We consider the effective Lagrangian:
+
+$$
+\mathcal{L} = g_{a\gamma\gamma} a \mathbf{E}\cdot\mathbf{B}
+$$
+
+Where $g_{a\gamma\gamma}$ is the axion-photon coupling, and $\mathbf{E}$ and $\mathbf{B}$ are the electric and magnetic fields, respectively.
+The key idea is that there is a conversion probability (axions converting to photons) which scales as:
+
+$$
+P_{a\to\gamma} \approx
+\left(\frac{g_{a\gamma\gamma} B L}{2}\right)^2
+$$
+
+This suggests that there are two routes to increasing the change of conversion: either large $\mathbf{B}$ or long path in magnetic field region ($L$). There is some speculation that, even with the weak fields of intergalactic space (small $\mathbf{B}$) because the distances are sooooo long that the particles travel, there is a nonzero probability of conversion!
+
+<!-- magnetic topological insulators could act as
+novel quantum sensors for axion detection. -->

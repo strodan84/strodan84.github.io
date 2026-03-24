@@ -1,0 +1,23 @@
+---
+title: "Multiferroicity: where my career got started"
+date: 2026-01-25
+categories: [multiferroics, magnetism]
+number-sections: true
+draft: true
+---
+
+In this first technical post, I will introduce the topic of my undergraduate research experience (and subsequent masters work): **multiferroics**, materials that display **multiferroicity**. 
+
+One can call a crystal multiferroic, when two or more of the primary ferroic orders are united within the same phase. 
+
+I worked on materials that showed a *coexistence* of ferromagnetism and ferroelectricity. 
+
+These so-called **magnetoelectric multiferroics** display not only the $M(H)$ and $P(E)$ hysteresis loops - which characterize ferromagnetism and ferroelectricity, respectively - but also the cross-coupled hystereses $M(E)$ and $P(H)$.
+
+In other words, the magnetization can be induced by an electric field and the electric polarization can be varied by magnetic field, thus offering the ability to sense or control material polarization with either magnetic of electric field. 
+
+The search for new multiferroics (MFs) in complex adaptive materials in thin film or bulk crystalline form was one of the biggest worldwide activities in condensed matter physics (CMP) back in the first decade of the 21st century.
+
+MFs are interesting in that they offer opportunities to study the fundamental links between spin, charge, and lattice degrees of freedom. 
+
+Someday useful MFs may have numerous technological applications such as circumventing material fatigue, such that electric fields write information, but the read cycle can be performed optically, using standard magneto-optical methods to probe induced magnetic dipoles.

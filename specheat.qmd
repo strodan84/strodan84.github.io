@@ -1,0 +1,7 @@
+---
+title: Specific Heat Capacity (PPMS 2-tau relaxation)
+---
+
+::: {style="float:center; margin-left:10px; width:500px;"}
+![Diagram of the parts of a specific heat capacity measurement with a Quantum Design PPMS](images/PPMS_probe.jpg)
+:::

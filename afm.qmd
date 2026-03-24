@@ -1,0 +1,11 @@
+---
+title: Atomic Force Microscopy (AFM)
+subtitle: Quickest check of physical surface, measuring thickness of samples
+---
+
+
+
+
+::: {style="float:right; margin-left:10px; width:250px;"}
+![AFM](images/afm.png)
+:::

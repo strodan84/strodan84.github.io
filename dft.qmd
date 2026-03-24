@@ -1,0 +1,16 @@
+---
+title: Density Functional Theory (DFT)
+---
+
+::: {style="float:center; margin-left:10px; width:500px;"}
+![open-source package for research in electronic structure, simulation and optimization](images/quantumespresso.png)
+:::
+
+Self-taught mostly, from online Quantum-ESPRESSO tutorials with hands-on DFT practice, and reading and working through Prof. Vanderbilt's excellent book [*Berry Phases in Electronic Structure Calculations*](https://www.amazon.com/Berry-Phases-Electronic-Structure-Theory/dp/110715765X/ref=sr_1_1?crid=1LV2F7QLW7FMN&dib=eyJ2IjoiMSJ9.om5FW6edSyxkx04eGaXYbodRXEFRdzgCaJvR_P6EJA0.Hu1kpp8smTYYE3RU-cKjm5lNOuDtKqoPNql8GrmMwm8&dib_tag=se&keywords=berry+phases+electronic+structure+theory+vanderbilt&qid=1771014581&sprefix=vanderbilt+berry%2Caps%2C286&sr=8-1){target="_blank"}
+
+I am now proficient in:
+
+- running SOC + magnetic DFT
+- constructing Wannier models
+- computing Berry curvature and θ 
+- and proposing materials with measurable axionic response.

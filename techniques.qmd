@@ -1,0 +1,60 @@
+---
+title: Techniques - Theoretical & Experimental
+subtitle: Synthesis, characterization, and theoretical calculation techniques acquired over two decades of condensed matter and particle physics research.
+---
+
+## Astroparticle Physics Relevant
+
+### Detector & Experimental Systems
+- Optical calibration systems
+- Firmware, Raspberry Pi, microcontroller
+- IceCube DAQ systems
+- Signal reconstruction & noise modeling
+
+### Analysis-related
+- Python, C++
+- statistical analytical methods
+- Machine Learning with Scikit-learn and TensorFlow
+- Convolutional Neural Networks (CNNs, ~image recognition)
+
+
+
+
+## Condensed-Matter Relevant
+
+<!-- ### Electronic Structure Calculations
+- [Density Functional Theory](dft.qmd) -->
+
+### Materials Synthesis
+- [Solid-state reaction (polycrystalline pellets)](solidstatereaction.qmd)
+- [Flux growth of Single Crystals](flux.qmd)
+- Crystal polishing and surface preparation
+- [Arc-melter (polyxtal intermetallics)](arcmelter.qmd)
+- Chemical vapor transport (CVT)
+
+![*Inside crystal growth lab at Chung-Ang University — 2017*](images/profile3.jpg){style="float:right; margin-left:20px; width:250px;"}
+
+### Structural & Chemical Characterization
+- [Powder X-ray diffraction (XRD)](powderxrd.qmd)
+- SEM / EDX
+- [Atomic Force Microscope (AFM)](afm.qmd)
+
+
+### Electronic & Magnetic Measurements
+- SQUID magnetometry (dc and ac)
+- Hall effect measurements
+- Four-point probe transport
+
+
+### Special Characterization
+- [Specific Heat Capacity (PPMS 2-tau relaxation)](specheat.qmd)
+- Nuclear Magnetic Resonance (NMR) 
+- Muon Spin Rotation ($\mu$SR)
+
+
+### Low-Temperature & Cryogenics
+- Quantum Design cryostats
+- Liquid helium systems (with Liq-N jackets)
+- Measurements on crystalline samples down to 1.8 K
+
+

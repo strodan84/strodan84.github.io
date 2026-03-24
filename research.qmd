@@ -1,0 +1,108 @@
+---
+title: Research Topics - Past & Present
+subtitle: Chronological Summaries and Highlights
+format:
+  html:
+    theme: cosmo 
+    toc: false
+    code-line-numbers: false
+    page-layout: full
+---
+
+# <span style="color: #1f77b4;">Stage 1 (2006-2021): (Conventional) Condensed Matter Physics</span>
+
+## Undergrad / Masters: Magnetoelectric Multiferroics and Topologically-Protected Vortices
+- hexagonal RMnO$_3$ (R = Y, Er, Ho) perovskites (single crystal flux growth)
+- polycrystal growth of Ruddlesden-Popper phases, such as double perovskites A$_2$BB'O$_6$
+- Structural chartacterization through powder XRD
+
+## PhD: half-metallic Heusler compounds (X$_2$YZ)
+- characterizing new ternary (or quartenary) metallic alloys predicted to be half-metals (the Fermi level passes through a gap for electrons of only one spin polarization, as shown in the left diagram below) thus all conducting electrons theoretically would be 100% spin-polarized.
+- Early in my second year I switched focus from crystal growth to setting up and testing a new zero-field NMR (nuclear magnetic resonance) electronics for spin-echo spectra analysis of magnetic materials, and in particular I measured and analyzed broad spectra for several Heusler compounds (both bulk and thin films) using models of various types of antisite disorder (illustrated in the right image below).
+- The focus of my doctoral thesis was understanding the structure to properties Performed measurements using XRD, magnetization, and specific heat in addition to NMR
+
+
+::: {.columns .v-center}
+::: {.column width="35%"}
+![](images/halfmetal.png)
+:::
+
+::: {.column width="35%"}
+![](images/heusler_disorder.jpg)
+:::
+:::
+
+
+::: {.columns .v-center}
+::: {.column width="45%"}
+![](images/nmr_work2.png)
+:::
+
+::: {.column width="45%"}
+![](images/nmr_work1.png)
+:::
+:::
+
+
+
+## Postdoc #1: Quantum Criticality in Doped Iridate 
+
+::: {.columns .v-center}
+::: {.column width="50%"}
+![](images/iridate1.png)
+:::
+
+::: {.column width="50%"}
+![](images/iridate2.png)
+:::
+:::
+
+
+
+## Postdoc #2: Ferromagnetism in Doped van der Waals Systems
+
+::: {style="float:center; margin-left:10px; width:900px;"}
+![](images/Co-SnS2.png)
+:::
+
+
+
+---
+
+# <span style="color: #b41f1f;">Stage 2 (2021+): Astroparticle Physics</span>
+
+After feeling I was unvoluntarily being funneled into too much applied work (due to boundary condition that I needed to stay in Korea, but lack of postdoc opportunities at that transition period) when my heart was always in more fundamental understanding of quantum materials. So I returned to my "first love" - well, not string theory specifically - but particle physics involving astrophysical sources that accelerate particles up to energies not realistically obtainable in earth-bound accelerators.
+
+## IceCube Neutrino Observatory: Upgrade Camera System (Jul 2021 - Dec 2024)
+
+- I headed testing and production of over 2,000 fixed-focus camera-illumination board calibration systems for the IceCube Upgrade at the South Pole, managing camera issues during integration.
+- I developed the initial deployment and measurement plans for the '''Upgrade Camera System'''.
+- I advised students (both undergrads and graduate) on their thesis research and undergraduate projects, scheduled and maintained one-on-one weekly meetings. I supported the PI who aside from two visits a year, communicated with students only remotely, and was given a large responsibility to maintain the labs in South Korea.
+
+::: {.columns .v-center}
+::: {.column width="33%"}
+![](images/profile4.jpg)
+:::
+
+::: {.column width="33%"}
+![](images/mdom.png)
+:::
+
+::: {.column width="33%"}
+![](images/camerawork.jpg)
+:::
+:::
+
+
+## Cross-Detector Cosmic Ray Low-Energy Scalar Rate Modulation during Solar Transient Events (Sep 2025 - Jul 2026)
+- Forbush decreases are transient events connected with solar flares/ICMEs, where the flux of lower energy (rigidity) particles is reduced by the shock/sheath and magnetic cloud associated with the flare.
+- developed phenomenological two-component attenuation model
+- using toy model, and CORSIKA simulations
+- drafting paper and wrapping things up on this project (in Jan 2026)
+
+
+
+
+
+
+<!-- # <span style="color: #911fb4;">Stage 3: TOPAX - TOPological materials for AXion detection (2026+)</span> -->

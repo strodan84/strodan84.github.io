@@ -1,0 +1,103 @@
+/* css styles */
+
+.card {
+  border: 1px solid #2013ca;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #ecde15;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* .profile-card {
+  float: right;
+  width: 280px;
+  margin: 0 0 1em 1.5em;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #f7f7f7;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  padding: 8px;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.profile-card img {
+  width: 50%;
+  border-radius: 8px;
+}
+
+.profile-card em {
+  display: block;
+  margin-top: 6px;
+  color: #555;
+}
+
+@media (max-width: 768px) {
+  .profile-card {
+    float: none;
+    margin: 1em auto;
+    width: 80%;
+  }
+}
+
+.profile-card em {
+  background: #eee;
+  padding: 6px;
+  border-radius: 0 0 8px 8px;
+} */
+
+
+.side-figure {
+  float: right;
+  width: 220px;              /* smaller */
+  margin: 0 0 0.8em 1.2em;
+  border: 1px solid #ddd;
+  padding: 4px;
+  background: #fafafa;
+  font-size: 0.85em;
+  text-align: center;
+}
+
+/* .side-figure {
+  float: right;
+  width: 210px;
+  margin: 0 0 0.8em 1.2em;
+  font-size: 0.85em;
+  text-align: center;
+  color: #666;
+} */
+
+
+.side-figure img {
+  width: 50%;
+}
+
+.side-figure em {
+  color: #666;
+}
+
+
+.emoji {
+  font-family: "Apple Color Emoji", "Segoe UI Emoji",
+               "Noto Color Emoji", sans-serif;
+  img.emoji {
+    width: 0.5em;
+    height: 0.5em;
+  };
+}

@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: https://stevenrodan.github.io/mysite/
+  title: "Steven Rodan"
+  navbar:
+    # logo: topax-lab.svg
+    # logo-alt: TOPAX Lab logo
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog/index.qmd
+        text: Blog
+
+    right:
+      - href: research.qmd
+        text: Research
+      - href: techniques.qmd
+        text: Techniques
+      - publications.qmd
+      - href: cv.qmd
+        text: CV
+      - href: teaching.qmd
+        text: Teaching
+      - href: hobbies.qmd
+        text: Hobbies
+      
+      
+    tools:
+      - icon: github
+        href: https://github.com/strodan84
+
+bibliography: pubs.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    include-in-header:
+      text: |
+        <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
+        <script>
+          document.addEventListener("DOMContentLoaded", function() {
+            twemoji.parse(document.body);
+          });
+        </script>
+
+
+
+    

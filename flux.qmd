@@ -1,0 +1,10 @@
+---
+title: Flux Growth of Single Crystals
+---
+
+
+
+
+::: {style="float:center; margin-left:10px; width:500px;"}
+![](images/profile3.jpg)
+:::
