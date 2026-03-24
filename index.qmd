@@ -16,7 +16,7 @@ format:
 *Inside one of my favorite Angkorian temples (Preah Khan), Siem Reap, Cambodia — Jan 2024*
 ::: -->
 
-![*Inside one of my favorite Angkorian temples (Preah Khan), Siem Reap, Cambodia — Jan 2024*](/images/profile2.jpg){style="float:right; margin-left:20px; width:250px;"}
+![*Inside one of my favorite Angkorian temples (Preah Khan), Siem Reap, Cambodia — Jan 2024*](images/profile2.jpg){style="float:right; margin-left:20px; width:250px;"}
 
 
 # Welcome to my personal homepage!
